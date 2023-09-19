@@ -1,4 +1,3 @@
-![LIB6](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/db5ffc71-ed42-4270-9872-2e30d26d5508)# Library-Management
 ## AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ## PROBLEM STATEMENT:
@@ -8,16 +7,16 @@ cancellation for the registered project.
 ## OVERALL DESCRIPTION:
 The Library Management System is an integrated system that has four modules as part of
 it. The four modules are
-### Registration for Membership:
+### i)Registration for Membership:
 In this module, the user can select the books to register for the library,Modification in the book
 database, cancelling the books.
-### Book details:
+### ii)Book details:
 In this module the user can search for the books by giving bookie in the project and selecting
 the semester for the book.
 Maintaining Book Details:
 In this module the administrator can change the data’s like the semester, address, books can be
 done.
-### Cancellation for the Book:
+### iii)Cancellation for the Book:
 In this module the user can cancel their name which is registered for the Book.
 ## SOFTWARE REQUIRMENTS:
 Star UML
