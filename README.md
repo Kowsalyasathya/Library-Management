@@ -28,18 +28,13 @@ Register No: 212222230069
 ```
 ### USECASE DIAGRAM:
 ![LIB1](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/b2421b6f-e9fa-48aa-9bd1-19ec9c4b04d8)
-
 ### CLASS DIAGRAM:
 ![LIB2](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/431f305c-dc1a-4b5d-b0f0-174870577a67)
-
 ### ACTIVITY DIAGRAM:
 ![LIB3](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/b0683f04-a8b9-4f54-b379-dffbd52d591a)
-
 ### SEQUENCE DIAGRAM:
 ![LIB4](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/312d4b6c-a662-4b4d-a817-b7b4a6af7b5c)
-
 ### COMMUNICATION DIAGRAM:
 ![LIB7](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/f13a73b1-6356-45e2-bcff-06701376fca7)
 ## RESULT:
-
 Thus the Library management system project was executed and the output was verified.
