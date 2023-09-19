@@ -1,4 +1,4 @@
-# Library-Management
+![LIB6](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/db5ffc71-ed42-4270-9872-2e30d26d5508)# Library-Management
 ## AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ## PROBLEM STATEMENT:
@@ -38,9 +38,8 @@ Register No: 212222230069
 ### SEQUENCE DIAGRAM:
 ![LIB4](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/312d4b6c-a662-4b4d-a817-b7b4a6af7b5c)
 
-### COLLABORATION DIAGRAM:
-![LIB5](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/ea787b84-6543-451c-be0b-5447059756b3)
-
+### COMMUNICATION DIAGRAM:
+![LIB7](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/f13a73b1-6356-45e2-bcff-06701376fca7)
 ## RESULT:
 
 Thus the Library management system project was executed and the output was verified.
